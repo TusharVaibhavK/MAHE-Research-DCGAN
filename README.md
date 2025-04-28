@@ -47,7 +47,9 @@ pip install -r requirements.txt
 
 ## 🖼️ Sample Generated Images
 
-![Generated Images](samples/generated_images.png)
+![Generated Fingerprint Images](samples/fingerprints_grid.png)
+
+*The above image shows a grid of synthetically generated fingerprint patterns created by our DCGAN model. The model has learned to reproduce realistic ridge patterns, loops, and whorls characteristic of human fingerprints while maintaining diversity across samples.*
 
 ## 📊 Model Architecture
 
