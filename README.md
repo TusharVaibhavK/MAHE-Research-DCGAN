@@ -69,7 +69,7 @@ pip install -r requirements.txt
 Our research addresses the ethical and security challenges associated with generating synthetic biometric data using DCGANs. Below is a framework visualization:
 
 ```mermaid
-graph TD
+graph LR
     subgraph "DCGAN Generation Process"
         A[Random Noise] --> B[Generator Network]
         B --> C[Synthetic Biometric Data]
