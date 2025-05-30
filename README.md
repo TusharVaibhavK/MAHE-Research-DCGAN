@@ -100,16 +100,26 @@ graph TD
     C --> O
     C --> R
     
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#bbf,stroke:#333,stroke-width:2px
-    style G fill:#fbb,stroke:#333,stroke-width:2px
-    style H fill:#fbb,stroke:#333,stroke-width:2px
-    style I fill:#fbb,stroke:#333,stroke-width:2px
-    style J fill:#fbb,stroke:#333,stroke-width:2px
-    style K fill:#fbb,stroke:#333,stroke-width:2px
-    style L fill:#bfb,stroke:#333,stroke-width:2px
-    style O fill:#bfb,stroke:#333,stroke-width:2px
-    style R fill:#bfb,stroke:#333,stroke-width:2px
+    style A fill:#f9f,stroke:#333,stroke-width:2px,color:#333
+    style B fill:#f9f,stroke:#333,stroke-width:1px,color:#333
+    style C fill:#bbf,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#bbf,stroke:#333,stroke-width:1px,color:#333
+    style E fill:#bbf,stroke:#333,stroke-width:1px,color:#333
+    style F fill:#bbf,stroke:#333,stroke-width:1px,color:#333
+    style G fill:#fbb,stroke:#333,stroke-width:2px,color:#600
+    style H fill:#fbb,stroke:#333,stroke-width:2px,color:#600
+    style I fill:#fbb,stroke:#333,stroke-width:2px,color:#600
+    style J fill:#fbb,stroke:#333,stroke-width:2px,color:#600
+    style K fill:#fbb,stroke:#333,stroke-width:2px,color:#600
+    style L fill:#bfb,stroke:#333,stroke-width:2px,color:#060
+    style M fill:#bfb,stroke:#333,stroke-width:1px,color:#060
+    style N fill:#bfb,stroke:#333,stroke-width:1px,color:#060
+    style O fill:#bfb,stroke:#333,stroke-width:2px,color:#060
+    style P fill:#bfb,stroke:#333,stroke-width:1px,color:#060
+    style Q fill:#bfb,stroke:#333,stroke-width:1px,color:#060
+    style R fill:#bfb,stroke:#333,stroke-width:2px,color:#060
+    style S fill:#bfb,stroke:#333,stroke-width:1px,color:#060
+    style T fill:#bfb,stroke:#333,stroke-width:1px,color:#060
 ```
 
 This framework addresses how our DCGAN implementation for generating biometric data intersects with privacy, security, and ethical concerns, while proposing technical and governance solutions to mitigate potential risks.
