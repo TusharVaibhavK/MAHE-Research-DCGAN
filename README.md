@@ -132,8 +132,7 @@ If you use this code for your research, please cite:
 @misc{mahe-dcgan,
   author = {MAHE Research Team},
   title = {MAHE-Research-DCGAN},
-  year = {2023},
-  publisher = {GitHub},
+  year = {2025},
   url = {https://github.com/username/MAHE-Research-DCGAN}
 }
 ```
@@ -148,5 +147,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgements
 
-- [Original DCGAN Paper](https://arxiv.org/abs/1511.06434)
-- [PyTorch DCGAN Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+- [Referenced DCGAN Paper](https://arxiv.org/abs/1511.06434)
