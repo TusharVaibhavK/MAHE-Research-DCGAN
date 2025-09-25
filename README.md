@@ -172,7 +172,7 @@ graph LR
         DDC[DCGAN Discriminator]
         GCG[Conditional Generator]
         DCG[Conditional Discriminator]
-        CLS[Quality Classifier (ResNet-18)]
+        CLS["Quality Classifier ResNet-18"]
     end
 
     %% Training & Generation
