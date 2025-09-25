@@ -1,0 +1,16 @@
+torch==2.1.0+cu118     # CUDA 11.8 version
+torchvision==0.16.0+cu118
+torchaudio==2.1.0+cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
+pandas
+numpy
+Pillow
+scikit-learn
+matplotlib
+opencv-python
+tqdm
+pytorch-fid
+tensorboard
+seaborn
+scipy
+joblib

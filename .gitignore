@@ -2,3 +2,9 @@ venv
 data
 Research Projects - Mahe.pdf
 IEEE-paper-format-template.docx
+__init__.py
+*.pyc
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+checkpoints
